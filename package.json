@@ -2,24 +2,24 @@
   "name": "solbera-dnd-fonts",
   "version": "1.0.0",
   "description": "Solbera's DND5e fonts",
-  "homepage": "https://github.com/jonathonf/solbera-dnd-fonts#readme",
-  "author": "Jonathon <559369+jonathonf@users.noreply.github.com>",
+  "homepage": "https://github.com/prantlf/solbera-dnd-fonts#readme",
+  "author": "Ferdinand Prantl <prantlf@gmail.com>",
   "contributors": [
-    "Peter Lucas <peterlucas2804@gmail.com>",
-    "Ferdinand Prantl <prantlf@gmail.com>"
+    "Jonathon <559369+jonathonf@users.noreply.github.com>",
+    "Peter Lucas <peterlucas2804@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathonf/solbera-dnd-fonts.git"
+    "url": "https://github.com/prantlf/solbera-dnd-fonts.git"
   },
   "bugs": {
-    "url": "https://github.com/jonathonf/solbera-dnd-fonts/issues"
+    "url": "https://github.com/prantlf/solbera-dnd-fonts/issues"
   },
   "license": "MIT",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jonathonf/solbera-dnd-fonts/blob/master/LICENSE"
+      "url": "https://github.com/prantlf/solbera-dnd-fonts/blob/master/LICENSE"
     }
   ],
   "engines": {

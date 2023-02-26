@@ -2,6 +2,12 @@
 
 This is a copy of Solbera's CC-BY-SA-4.0 fonts taken from [his Reddit thread](https://www.reddit.com/r/UnearthedArcana/comments/3vpphx/5e_font_package_embeddable_cc_edition/), combined with Ryrok's fixes from [this Reddit thread](https://www.reddit.com/r/UnearthedArcana/comments/4loka0/fixed_versions_of_solberas_fonts/) and fixes and additions by [Ners](https://www.reddit.com/r/UnearthedArcana/comments/71wzc2/new_indesign_template_and_open_source_fonts/) ("Remake") with some minor adjustment made by [LUCASTUCIOUS](http://github.com/lucastucious).
 
+This is a fork of the [original project] with several enhancements:
+
+* Distributed as NPM module.
+* Optimised web font formats included.
+* Declarations of font faces in CSS stylesheets included.
+
 Use NPM to install the package or to download unpack the tarball with them:
 
     npm i -D solbera-dnd-fonts
@@ -67,3 +73,5 @@ The following table contains names and usage details:
 > A. Make Some Sweet Homebrew for the rest of us!
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+[original project]: https://github.com/jonathonf/solbera-dnd-fonts.git
