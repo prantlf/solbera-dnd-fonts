@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/prantlf/solbera-dnd-fonts/compare/v1.0.1...v1.0.2) (2023-02-27)
+
+### Bug Fixes
+
+* Generate stylesheet.css ([acf1498](https://github.com/prantlf/solbera-dnd-fonts/commit/acf14989f84099e31a01304427fdb30adf22c331))
+
 ## [1.0.1](https://github.com/prantlf/solbera-dnd-fonts/compare/v1.0.0...v1.0.1) (2023-02-27)
 
 ### Bug Fixes
