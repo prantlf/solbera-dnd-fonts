@@ -6,12 +6,16 @@ This is a fork of the [original project] with several enhancements:
 
 * Distributed as NPM module.
 * Optimised web font formats included.
-* Declarations of font faces in CSS stylesheets included.
+* Declarations of font faces in separate CSS stylesheets included.
 
-Use NPM to install the package or to download unpack the tarball with them:
+[![Latest version](https://img.shields.io/npm/v/solbera-dnd-fonts)
+ ![Dependency status](https://img.shields.io/librariesio/release/npm/solbera-dnd-fonts)
+](https://www.npmjs.com/package/solbera-dnd-fonts)
+
+Use NPM or other package manager to install the package or to download and unpack the tarball with them:
 
     npm i -D solbera-dnd-fonts
-    npm pack solbera-dnd-fonts
+    npm pack solbera-dnd-fonts && tar xf solbera-dnd-fonts-*.tgz
 
 The structure of the distribution package:
 
