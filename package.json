@@ -33,7 +33,24 @@
     "prepare": "rm.js -rf \"dist/*\" && mkdir -p dist && cp.js \"*/*.otf\" \"build/css/*.css\" dist && cat.js build/css/*.css > stylesheet.css && node build/generate",
     "test": "denolint && node build/test"
   },
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      [
+        "@semantic-release/github",
+        {
+          "failComment": false
+        }
+      ],
+      "@semantic-release/git"
+    ]
+  },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/git": "^10.0.1",
     "@unixcompat/cat.js": "1.0.1",
     "@unixcompat/cp.js": "2.0.0",
     "@unixcompat/mkdir.js": "1.1.2",
